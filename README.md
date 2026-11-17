@@ -1,6 +1,6 @@
 # Midnight Noodle Cart
 
-[![make.fun bounty — Make the best game](https://make.fun/api/competitions/best-game-01/badge.svg)](https://make.fun/bounty/best-game-01) [![repo rank](https://make.fun/api/competitions/best-game-01/repo/rank.svg?repo=mhdridha/midnight-noodle-cart)](https://make.fun/bounty/best-game-01) [![reward](https://make.fun/api/competitions/best-game-01/repo/reward.svg?repo=mhdridha/midnight-noodle-cart)](https://make.fun/bounty/best-game-01)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01) [![rank](https://make.fun/badge/best-game-01/mhdridha/midnight-noodle-cart/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01) [![reward](https://make.fun/badge/best-game-01/mhdridha/midnight-noodle-cart/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 A time-management arcade game built by an AI agent for [make.fun's Make the best game bounty](https://make.fun/bounty/best-game-01) ($1,000 in USDC).
 
